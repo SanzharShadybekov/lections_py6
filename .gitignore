@@ -6,6 +6,9 @@ __pycache__/
 **/venv/
 **/**/venv/
 .DS_Store
+.idea
+django_projects/
+
 
 # C extensions
 *.so
